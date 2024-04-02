@@ -55,7 +55,7 @@ I opted to utilize Microsoft Excel for all phases of this project as it serves a
 
 - Given the equal contribution of Clothing and Electronics to total sales, allocating marketing efforts and resources equally between these two product categories can be considered to maintain balance and capitalize on consumer interest.
 
-- With February of 2023 recording the highest sales, explore the factors contributing to this peak period and considering replicating successful strategies during similar periods will maximize sales potential.
+- With February of 2023 recording the highest sales, exploring the factors contributing to this peak period and considering replicating successful strategies during similar periods will maximize sales potential.
 
 - Factors contributing to the lowest sales in January 2024 can be checked and strategies  implemented to mitigate similar declines in the future. 
 
