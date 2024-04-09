@@ -23,19 +23,19 @@ I opted to utilize Microsoft Excel for all phases of this project as it serves a
 
 ![](Table_format.png)
 
-- *Create Pivot tabel and Pie chart for Sales by Category*
+- *Create Pivot table and Pie chart for Sales by Category*
 
 ![](Sales_by_Category.png)
 
-- *Create Pivot tabel and Line graph for Sales by Month*
+- *Create Pivot table and Line graph for Sales by Month*
 
 ![](Sales_by_Month.png)
 
-- *Create Pivot tabel and Pie chart for Sales by Gender*
+- *Create Pivot table and Pie chart for Sales by Gender*
 
 ![](Sales_by_Gender.png)
 
-- *Create Pivot tabel and Column chart for Sales by Gender and Category*
+- *Create Pivot table and Column chart for Sales by Gender and Category*
 
 ![](Sales_by_Gender_And_Category.png)
 
